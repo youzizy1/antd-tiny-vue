@@ -4,6 +4,7 @@ specifiers:
   '@commitlint/cli': ^17.5.1
   '@commitlint/config-conventional': ^17.4.4
   '@mistjs/eslint-config-vue-jsx': ^0.0.5
+  '@mistjs/tsconfig': ^1.0.0
   '@mistjs/tsconfig-vue': ^0.0.3
   '@types/node': ^18.15.11
   eslint: ^8.37.0
@@ -17,6 +18,7 @@ devDependencies:
   '@commitlint/cli': registry.npmmirror.com/@commitlint/cli/17.5.1
   '@commitlint/config-conventional': registry.npmmirror.com/@commitlint/config-conventional/17.4.4
   '@mistjs/eslint-config-vue-jsx': registry.npmmirror.com/@mistjs/eslint-config-vue-jsx/0.0.5_3iruqi4tgipjibakl6mmt2jnge
+  '@mistjs/tsconfig': registry.npmmirror.com/@mistjs/tsconfig/1.0.0
   '@mistjs/tsconfig-vue': registry.npmmirror.com/@mistjs/tsconfig-vue/0.0.3
   '@types/node': registry.npmmirror.com/@types/node/18.15.11
   eslint: registry.npmmirror.com/eslint/8.37.0
